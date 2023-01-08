@@ -1,0 +1,5 @@
+sabai program ma 
+#include<stdio.h> paxi next line ma #include<conio.h>
+ani 
+return 0; vanda mathi getch(); 
+lekhna naxutau hai exam ma 

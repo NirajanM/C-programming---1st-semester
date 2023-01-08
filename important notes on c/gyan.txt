@@ -1,0 +1,50 @@
+a++  --> first print then increament 
+++a  --> first increament then print
+
+a++ --> a+1
+a+=10 --> increament by 10
+
+-----------------------------------------------------------------------------------------------------------------------
+LOOPS STRUCTURE
+-----------------------------------------------------------------------------------------------------------------------
+
+
+
+while(a>10){
+            printf("the value of a is %d",a);
+            a++:
+           }
+
+      
+(check the conditon and execute the code)
+-----------------------------------------------------------------------------------------------------------------------
+
+
+do{
+   printf("the value of a is %d",a);
+   a++;
+  }while(a<10);
+
+
+
+(execute the code and check the condition)
+this loop runs at least once even if condition is not met.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+
+for(initialize; test ; increment/decrement)
+{code}
+
+for(int a=0 ; a<10 ; a++ ){
+                           printf("the value of a is %d ",a+1);
+                          }
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+break;   --> get out of loop
+
+continue;--> loop dohorinxa arko talako condition naheri
+
+pointers --> stores address
